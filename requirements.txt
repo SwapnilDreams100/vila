@@ -10,7 +10,7 @@ pytest
 pysbd
 
 # For visual layout detection libraries 
-layoutparser[effdet]>=0.2
+layoutparser>=0.2
 
 # HF 
 transformers
